@@ -31,12 +31,12 @@ export const projects = [
   },
 
   {
-    title: 'WebRTC App',
-    description: "I'm going to build and deploy a React Video Chat Application using WebRTC. This project is still a work in progress",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Krtpy',
+    description: "I built an ethereum exchange web app where users can send and receive ethereum using a metamask wallet using react tailwindcss and solidity programming language. ",
+      image: '/images/kcrypt.png',
+      tags: ['React', 'TailwindCSS', 'Solidity'],
+    source: 'https://fcrypt.vercel.app/',
+    visit: 'https://github.com/fiyin35/krypt',
     id: 2,
   },
 
