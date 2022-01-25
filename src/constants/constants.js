@@ -31,7 +31,7 @@ export const projects = [
   },
 
   {
-    title: 'Krtpy',
+    title: 'Krypt',
     description: "I built an ethereum exchange web app where users can send and receive ethereum using a metamask wallet using react tailwindcss and solidity programming language. ",
       image: '/images/kcrypt.png',
       tags: ['React', 'TailwindCSS', 'Solidity'],
