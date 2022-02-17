@@ -40,6 +40,16 @@ export const projects = [
     id: 2,
   },
 
+  {
+    title: 'Krypt',
+    description: "I turned figma design into a responsive mobile friendly web application using react, CSS and material UI, You can find the link to the code respository and the link to the application below. ",
+      image: '/images/kcrypt.png',
+      tags: ['React', 'CSS', 'Material UI'],
+    source: 'https://gericht-restaurant-phi.vercel.app/',
+    visit: 'https://github.com/fiyin35/gericht-restaurant',
+    id: 4,
+  },
+
 ];
 
 export const TimeLineData = [
