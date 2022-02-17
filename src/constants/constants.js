@@ -41,9 +41,9 @@ export const projects = [
   },
 
   {
-    title: 'Krypt',
+    title: 'Gericht Restaurant',
     description: "I turned figma design into a responsive mobile friendly web application using react, CSS and material UI, You can find the link to the code respository and the link to the application below. ",
-      image: '/images/kcrypt.png',
+      image: '/images/geritch.png',
       tags: ['React', 'CSS', 'Material UI'],
     source: 'https://gericht-restaurant-phi.vercel.app/',
     visit: 'https://github.com/fiyin35/gericht-restaurant',
