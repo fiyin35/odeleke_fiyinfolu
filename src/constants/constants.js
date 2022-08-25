@@ -50,10 +50,21 @@ export const projects = [
     id: 4,
   },
 
+  {
+    title: 'Pneumalife Bible Church',
+    description: "I turned figma design into a responsive mobile friendly web application using react, CSS and material UI, You can find the link to the code respository and the link to the application below. ",
+      image: '/images/geritch.png',
+      tags: ['React', 'CSS', 'Material UI', 'TypeScript'],
+    source: 'https:faithbreed.org',
+    visit: 'https://github.com/Pneuma-Life/web.git',
+    id: 4,
+  },
+
 ];
 
 export const TimeLineData = [
   { year: 2019, text: 'Started my journey', },
   { year: 2020, text: 'Worked as an intern', },
-  { year: 2021, text: 'Worked as a freelance developer', },
+  { year: 2021, text: 'Worked as a contract developer', },
+  { year: 2022, text: 'Worked as a freelance developer', },
 ];
