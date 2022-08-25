@@ -53,7 +53,7 @@ export const projects = [
   {
     title: 'Pneumalife Bible Church',
     description: "I turned figma design into a responsive mobile friendly web application using react, CSS and material UI, You can find the link to the code respository and the link to the application below. ",
-      image: '/images/geritch.png',
+      image: '/images/faithbreed.png',
       tags: ['React', 'CSS', 'Material UI', 'TypeScript'],
     source: 'https:faithbreed.org',
     visit: 'https://github.com/Pneuma-Life/web.git',
